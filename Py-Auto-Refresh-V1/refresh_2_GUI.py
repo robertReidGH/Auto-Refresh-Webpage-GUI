@@ -1,3 +1,7 @@
+#########################################################
+##Python Automatic Refresh Script
+##Author Robert Reid
+#########################################################
 #Imports
 from selenium import webdriver
 import time
